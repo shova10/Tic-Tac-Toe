@@ -50,7 +50,6 @@ tic-tac-toe-game/
 └── README.md
 ```
 🎨 Screenshot
-
-```````````````````````````````![Tic-Tac-Toe](https://github.com/user-attachments/assets/12260c1c-0766-4e3f-a179-e0d085224162)
+![Tic-Tac-Toe](https://github.com/user-attachments/assets/12260c1c-0766-4e3f-a179-e0d085224162)
 
 ---
